@@ -1,1 +1,8 @@
-
+{
+  "id": "2026-04-21-eltern-app",
+  "title": "Bienenstock-App für Eltern ist live",
+  "text": "Die neue *Bienenstock-App für Eltern* ist ab sofort live und kann von euren Eltern genutzt werden.\n\nFeedback zur App findet ihr im Menü.",
+  "cta": { "label": "Zur Doku", "url": "https://bienenstock.gitbook.io/bienenstock/trager-und-eltern/bienenstock-fur-eltern-app" },
+  "tone": "success",
+  "active": true
+}
