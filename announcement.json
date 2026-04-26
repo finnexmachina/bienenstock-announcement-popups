@@ -1,8 +1,7 @@
 {
-  "id": "2026-04-21-eltern-app-v2",
-  "title": "Bienenstock-App für Eltern ist live",
-  "text": "Die neue *Bienenstock-App für Eltern* ist ab sofort live und kann von euren Eltern genutzt werden.\n\nMeldungen aus der App werden im **Meldungen**-Menü angezeigt.",
-  "cta": { "label": "Zur Doku", "url": "https://bienenstock.gitbook.io/bienenstock/trager-und-eltern/bienenstock-fur-eltern-app" },
-  "tone": "success",
+  "id": "2026-04-26-qr-codes-erzieher",
+  "title": "Neue Optik & QR-Codes für Erzieher",
+  "text": "Sie finden nun **QR-Codes** zu jedem Mitarbeiter in der Datenbank und können diese am selben Scanner im Eingang zum Einchecken des Personals nutzen.\n\nZusätzlich können Sie weiterhin den alten Weg nutzen.\n\nLiebe Grüße vom Bienenstock Team.",
+  "tone": "info",
   "active": true
 }
