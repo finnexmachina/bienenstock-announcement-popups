@@ -1,7 +1,7 @@
 {
-  "id": "2026-04-26-qr-codes-erzieher",
+  "id": "2026-04-28-qr-codes-erzieher",
   "title": "Neue Optik & QR-Codes für Erzieher",
-  "text": "Sie finden nun **QR-Codes** zu jedem Mitarbeiter in der Datenbank und können diese am selben Scanner im Eingang zum Einchecken des Personals nutzen.\n\nZusätzlich können Sie weiterhin den alten Weg nutzen.\n\nLiebe Grüße vom Bienenstock Team.",
+  "text": "Sie finden nun **QR-Codes** zu jedem Mitarbeiter in der Datenbank und können diese am Eingangs-Scanner zum Einchecken nutzen.\n\nZusätzlich können Sie weiterhin den alten Weg nutzen.\n\n*Hinweis:* Der Vorausschau-Graph kann noch inkonsistent sein.\n\nLiebe Grüße vom Bienenstock Team.",
   "tone": "info",
   "active": true
 }
