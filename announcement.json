@@ -1,7 +1,13 @@
 {
-  "id": "2026-04-28-qr-codes-erzieher",
-  "title": "Neue Optik & QR-Codes für Erzieher",
-  "text": "Sie finden nun **QR-Codes** zu jedem Mitarbeiter in der Datenbank und können diese am Eingangs-Scanner zum Einchecken nutzen.\n\nZusätzlich können Sie weiterhin den alten Weg nutzen.\n\n*Hinweis:* Der Vorausschau-Graph kann noch inkonsistent sein.\n\nLiebe Grüße vom Bienenstock Team.",
+  "id": "2026-08-10-qr-checkin-features",
+  "title": "QR-Check-in & neue Funktionen",
+  "text": "Erzieher & Kinder checken ab sofort **ausschließlich per QR-Code** am Eingang ein und aus. Außerdem neu:\n\n*Tipp vom Bienenstock-Team: Personalplanung einschalten und ausprobieren!*",
+  "bullets": [
+    "**Personalplanung**: Planen inkl. Pflichtpausen, Zeiten per Check-in/-out",
+    "**Team-Chat** & mobile Team-App zum Ausprobieren",
+    "**Rechtsvorgaben**: nach Eingabe der Geburtsdaten automatisch je Bundesland",
+    "Neue Optik der Exporte, Essensabsagen automatisch an den Lieferanten"
+  ],
   "tone": "info",
   "active": true
 }
