@@ -1,12 +1,12 @@
 {
-  "id": "2026-08-10-qr-checkin-features",
-  "title": "QR-Check-in & neue Funktionen",
-  "text": "Erzieher & Kinder checken ab sofort **ausschließlich per QR-Code** am Eingang ein und aus. Außerdem neu:\n\n*Tipp vom Bienenstock-Team: Personalplanung einschalten und ausprobieren!*",
+  "id": "2026-09-20-autopilot-chat",
+  "title": "Bienenstock wird einfacher",
+  "text": "Der Autopilot: einfach mit Bienenstock chatten. Alles, was Sie brauchen, auf einer Seite.",
   "bullets": [
-    "**Personalplanung**: Planen inkl. Pflichtpausen, Zeiten per Check-in/-out",
-    "**Team-Chat** & mobile Team-App zum Ausprobieren",
-    "**Rechtsvorgaben**: nach Eingabe der Geburtsdaten automatisch je Bundesland",
-    "Neue Optik der Exporte, Essensabsagen automatisch an den Lieferanten"
+    "**Autopilot** (optional): ein Chat für alles",
+    "Mehr Erklärungen, auch in den Einstellungen",
+    "Einstellungen für weniger Inhalte",
+    "**KI-Hilfschat** bei Fragen zur App"
   ],
   "tone": "info",
   "active": true
