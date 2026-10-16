@@ -1,12 +1,9 @@
 {
-  "id": "2026-09-20-autopilot-chat",
-  "title": "Bienenstock wird einfacher",
-  "text": "Der Autopilot: einfach mit Bienenstock chatten. Alles, was Sie brauchen, auf einer Seite.",
+  "id": "2026-10-17-app-updates",
+  "title": "App-Updates!",
+  "text": "Bitte aktualisieren Sie die App am **Check-in-Tablet**. Sie funktioniert nun auch bei vorübergehenden Internetausfällen.\n\nAußerdem neu:",
   "bullets": [
-    "**Autopilot** (optional): ein Chat für alles",
-    "Mehr Erklärungen, auch in den Einstellungen",
-    "Einstellungen für weniger Inhalte",
-    "**KI-Hilfschat** bei Fragen zur App"
+    "**Personal-App** für das Team ist ab sofort erhältlich"
   ],
   "tone": "info",
   "active": true
