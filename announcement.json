@@ -1,9 +1,12 @@
 {
-  "id": "2026-10-17-app-updates",
-  "title": "App-Updates!",
-  "text": "Bitte aktualisieren Sie die App am **Check-in-Tablet**. Sie funktioniert nun auch bei vorübergehenden Internetausfällen.\n\nAußerdem neu:",
+  "id": "2026-10-19-ki-funktionen-apps",
+  "title": "Neue Funktionen, KI und Apps",
+  "text": "**Kiosk-Tablet:** Bitte die App aktualisieren, sie funktioniert jetzt auch offline. **Eltern-App** und **Personal-App** sind nun für alle Kitas erhältlich.\n\n**Neu: KI-Funktionen.** Sie nutzen Ihr KI-Guthaben (oben in der Kopfzeile), das sich jeden Monat auffüllt. Zum Beispiel:",
   "bullets": [
-    "**Personal-App** für das Team ist ab sofort erhältlich"
+    "**Nachrichten-Wächter**: Datenschutz-Check für Nachrichten & Gruppentagebuch",
+    "**KI-Übersetzung** aller Nachrichten und E-Mails an Eltern",
+    "**KI-Bilder** und **E-Mails** erstellen",
+    "… und vieles mehr"
   ],
   "tone": "info",
   "active": true
